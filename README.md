@@ -1,25 +1,28 @@
-In-Memory Database (Python)
+#In-Memory Database (Python)
+
 This Python project offers a simple in-memory database for key-value storage.
 
-Features:
+##Features:
 
-Key-Value Pairs (key, value)
-Operations:
-ADD (new key-value)
-INSERT (new or update)
-DELETE (remove)
-Usage:
+-Key-Value Pairs (key, value)
+-Operations:
+-ADD (new key-value)
+-INSERT (new or update)
+-DELETE (remove)
+-Usage:
 
-Clone & Install (if needed)
+#Clone & Install (if needed)
 Run: python main.py
-Commands:
 
-ADD <key> <value>
-INSERT <key> <value>
-DELETE <key>
-GET <key> (retrieve value)
-SHOW (display all data)
-EXIT
+#Commands:
+
+-ADD <key> <value>
+-INSERT <key> <value>
+-DELETE <key>
+-GET <key> (retrieve value)
+-SHOW (display all data)
+-EXIT
+
 Note: Data is lost on program termination.
 
 Contribute!
